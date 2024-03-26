@@ -15,7 +15,7 @@ public class Question10 {
             a= a/10;   
             //System.out.println(a); 
         }
-        System.out.println(length);
+        System.out.println("the no digits of the given are "+length);
         
     }
     
